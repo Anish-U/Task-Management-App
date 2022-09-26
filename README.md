@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://info.cegedim-healthcare.co.uk/hubfs/CHS_Tasks%20logo.png" width="200" alt="Task Management Logo" />
+  <img src="https://info.cegedim-healthcare.co.uk/hubfs/CHS_Tasks%20logo.png" width="400" alt="Task Management Logo" />
 </p>
 
-<center><h3>Task Management App using NestJS</h3></center>
-<br /> 
+<h3 align="center">Task Management App using NestJS</h3>
+<br />
 
 ## Installation
 
